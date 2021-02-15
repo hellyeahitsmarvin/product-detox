@@ -9,8 +9,8 @@
 title:       Product Detox
 email:       'heaven@hellyeahitsmarvin.com'
 description: 'Detox your product practice. A blog about intention, integrity and doing the right thing.'
-baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://hellyeahitsmarvin.com/' # The base hostname & protocol for your site
+baseurl:     '/product-detox' # The subpath of your site, e.g. /blog - Important: Leading slash
+url:         'https://hellyeahitsmarvin.com' # The base hostname & protocol for your site without trailing slash
 twitter:     ''
 github:      ''
 instagram:   ''
