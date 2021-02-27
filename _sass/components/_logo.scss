@@ -4,19 +4,14 @@
 
 .c-logo {
   &__link {
-    font-family: 'Rock Salt';
-    font-size: $font-size-base;
+    font-family: 'Permanent Marker';
+    font-size: $font-size-h2;
     font-weight: $font-weight-bold;
     transition: $global-transition;
-    text-decoration: underline;
-    text-decoration-thickness: 3px;
-    text-decoration-color: darkseagreen;
-    text-underline-offset: 6px;
 
     @include attention() {
       color: $color-brand;
-      text-decoration-thickness: 3px;
-      text-decoration-color: bisque;
+      text-decoration: none;
     }
   }
 }
