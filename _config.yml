@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Product Detox
+title:       Notes
 email:       'heaven@hellyeahitsmarvin.com'
-description: 'Detox your product practice. A blog about intention, integrity and doing the right thing.'
+description: 'Detox your product practice. Half personal, half professional notes about intention, integrity and doing the right thing.'
 baseurl:     '' # The subpath of your site, e.g. /blog - Important: Leading slash
-url:         'https://product-detox.hellyeahitsmarvin.com' # The base hostname & protocol for your site without trailing slash
+url:         'https://notes.hellyeahitsmarvin.com' # The base hostname & protocol for your site without trailing slash
 twitter:     'https://twitter.com/hellyeahitsmarv'
 github:      'https://github.com/hellyeahitsmarvin/product-detox'
 # instagram:   ''
