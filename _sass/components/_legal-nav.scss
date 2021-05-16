@@ -1,0 +1,14 @@
+/*------------------------------------*\
+  Components > Legal Navigation
+\*------------------------------------*/
+
+.c-legal-nav {
+    &__item {
+      display: inline-block;
+      font-size: $font-size-tiny;
+    }
+  
+      @include attention() {
+        fill: $color-brand;
+      }
+    }

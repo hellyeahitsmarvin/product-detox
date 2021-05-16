@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Notes
+title:       Notes on Product
 email:       'heaven@hellyeahitsmarvin.com'
 description: 'Detox your product practice. Half personal, half professional notes about intention, integrity and doing the right thing.'
 baseurl:     '' # The subpath of your site, e.g. /blog - Important: Leading slash
@@ -15,6 +15,8 @@ twitter:     'https://twitter.com/hellyeahitsmarv'
 github:      'https://github.com/hellyeahitsmarvin/product-detox'
 # instagram:   ''
 # facebook:    ''
+imprint:      'https://hellyeahitsmarvin.com/imprint'
+privacy:      'https://hellyeahitsmarvin.com/privacy'
 
 markdown:  kramdown
 permalink: pretty
